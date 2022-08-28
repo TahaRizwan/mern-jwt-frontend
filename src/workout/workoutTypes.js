@@ -1,0 +1,6 @@
+export const GET_WORKOUTS = 'GET_WORKOUTS'
+export const ADD_WORKOUTS = 'ADD_WORKOUTS'
+export const LOADING_STARTED = 'LOADING_STARTED'
+export const LOADING_FINISHED = 'LOADING_FINISHED'
+export const DELETE_WORKOUT = 'DELETE_WORKOUT'
+export const ERROR = 'ERROR'
